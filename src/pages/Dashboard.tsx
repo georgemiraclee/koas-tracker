@@ -113,13 +113,7 @@ const Dashboard = () => {
           {ongoingRequirements.length > 0 && (
             <section className="animate-fade-in">
               <div className="flex items-center gap-2 mb-4">
-                <div className="p-2 bg-orange-100 rounded-xl">
-                  <Clock className="w-4 h-4 text-orange-600" />
-                </div>
-                <div>
-                  <h2 className="font-bold text-slate-800">Sedang Dikerjakan</h2>
-                  <p className="text-xs text-slate-500">Lanjutkan progress Anda</p>
-                </div>
+              
               </div>
               
               <div className="space-y-3">

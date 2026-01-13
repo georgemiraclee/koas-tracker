@@ -17,6 +17,8 @@ export interface PatientInfo {
 }
 
 export interface Requirement {
+  startDate: any;
+  completedDate: any;
   id: string;
   name: string;
   type: RequirementType;
