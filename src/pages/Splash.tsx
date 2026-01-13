@@ -29,6 +29,7 @@ const Splash = () => {
         </div>
         <h1 className="text-3xl font-bold text-white">KOAS Tracker</h1>
         <p className="text-white/80">Personal Progress Tracker</p>
+        <p className="text-white/80">© 2026 GMTECH</p>
       </div>
       
       <div className="absolute bottom-12 flex flex-col items-center gap-2">
